@@ -1,5 +1,5 @@
 #! python3
-# collatz.py - Collatz Sequence 
+# collatz.py - Collatz Sequence (idea from automatetheboringstuffwithpython)
 # Usage: python collatz.py <number>
 
 import sys
